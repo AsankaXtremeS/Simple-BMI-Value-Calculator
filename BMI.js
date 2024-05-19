@@ -14,6 +14,6 @@ document.getElementById('greetingForm')
             bmiText.innerHTML = "BMI  =   " + bmi;
             bmiText.style.color = 'green';
             bmiMsg.innerHTML = "Healthy";
-            bmiMsg.style.color = 'red';
+            bmiMsg.style.color = 'green';
         }
 });
